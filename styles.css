@@ -1,0 +1,75 @@
+html {
+  font-family: "Poppins", sans-serif;
+}
+.statistic {
+  background-color: #ff5437;
+  padding: 80px 20px 100px;
+}
+.statistic-container {
+  margin: 0 auto;
+  max-width: 1008px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  text-align: center;
+  color: #ffffff;
+}
+.statistic-container h2 {
+  font-weight: 400;
+  font-size: 95px;
+  line-height: 96px;
+}
+.statistic-container p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.technology {
+  padding: 94px 20px 0;
+}
+.technology-container {
+  margin: 0 auto;
+  max-width: 1008px;
+  max-height: 544px;
+  display: flex;
+  gap: 194px;
+  overflow: hidden;
+}
+.info h6 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #222222;
+  margin-bottom: 5px;
+}
+.info h3 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #222222;
+  margin-bottom: 15px;
+}
+.info p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #666666;
+}
+.technology-container img {
+  overflow: hidden;
+}
+.speed {
+  background-color: #f2f2f2;
+  padding: 94px 20px 0;
+}
+.speed-container {
+  margin: 0 auto;
+  max-width: 1008px;
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 200px;
+}
